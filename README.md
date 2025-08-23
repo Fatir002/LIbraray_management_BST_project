@@ -63,10 +63,10 @@ library.preorder(library)
 - **Deleting books**: Efficient removal with tree maintenance
 
 ### Complexity Analysis
-**Insertion**: O(log n) average case, O(n) worst case
-**Deletion**: O(log n) average case, O(n) worst case
-**Search**: O(log n) average case, O(n) worst case
-**Space**: O(n) for storing n books
+- **Insertion**: O(log n) average case, O(n) worst case
+- **Deletion**: O(log n) average case, O(n) worst case
+- **Search**: O(log n) average case, O(n) worst case
+- **Space**: O(n) for storing n books
 
 ## 💡 Real-World Uses
 
