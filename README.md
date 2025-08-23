@@ -62,6 +62,12 @@ library.preorder(library)
 - **Finding books**: Quick search through the tree
 - **Deleting books**: Efficient removal with tree maintenance
 
+### Complexity Analysis
+**Insertion**: O(log n) average case, O(n) worst case
+**Deletion**: O(log n) average case, O(n) worst case
+**Search**: O(log n) average case, O(n) worst case
+**Space**: O(n) for storing n books
+
 ## 💡 Real-World Uses
 
 This isn't just a school project - it shows how binary trees work in:
